@@ -1,0 +1,9 @@
+FABRIQUER Carnet-de-Mises.apk (Android) AVEC GITHUB - gratuit
+1. Sur github.com, créez un compte puis un dépôt (New repository), nom : carnet-de-mises-android.
+2. Extrayez ce ZIP sur un ordinateur. Dans le dépôt, "uploading an existing file" : glissez TOUT le
+   contenu du dossier, y compris le dossier caché ".github" et le dossier "app". Cliquez "Commit changes".
+3. Onglet "Actions" : "Fabriquer l'APK" démarre seul (5 à 10 minutes).
+4. Quand il est vert, ouvrez-le, descendez à "Artifacts", téléchargez "Carnet-de-Mises-apk" (ZIP).
+5. Sur le téléphone : extrayez ce ZIP dans Fichiers, ouvrez Carnet-de-Mises.apk, autorisez
+   "Installer des applications inconnues" pour Fichiers quand Android le demande, puis installez.
+Les sauvegardes exportées vont dans le dossier Téléchargements.
